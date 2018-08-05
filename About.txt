@@ -1,0 +1,15 @@
+
+
+The Collatz conjecture has a pretty simple premise. Take any integer. If it's even, divide it by 2. 
+If it's odd, multiply it by 3 and add 1. 
+
+Try starting with any number and repeat this process over and over again. 
+Starting with 5, you'd multiply by 3 and add 1 to get 16. 
+16 is even, so you'd divide it by 2 to get 8. Which leads to 4, which leads to 2, which leads to 1. 
+
+Repeating this process, regardless of the input number, has only led to 1.
+Supercomputers have tested the conjecture for all numbers, leading up to numbers with thousands of digits.
+
+As simple as the conjecture seems, nobody has been able to mathematically prove it. 
+There might be a number that leads to something other than 1. 
+Or there might not be. I don't know. I think it's pretty strange. But strange is normal in math.
